@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\firstWebsite\c#\inputProject\inputProject\bin\Debug\inputProject.exe.config
+C:\Users\student\Desktop\firstWebsite\c#\inputProject\inputProject\obj\Debug\inputProject.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\firstWebsite\c#\inputProject\inputProject\bin\Debug\inputProject.exe
+C:\Users\student\Desktop\firstWebsite\c#\inputProject\inputProject\bin\Debug\inputProject.pdb
+C:\Users\student\Desktop\firstWebsite\c#\inputProject\inputProject\obj\Debug\inputProject.exe
+C:\Users\student\Desktop\firstWebsite\c#\inputProject\inputProject\obj\Debug\inputProject.pdb

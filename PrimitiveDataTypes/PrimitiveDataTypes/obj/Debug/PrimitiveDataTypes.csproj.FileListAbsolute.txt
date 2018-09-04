@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\firstWebsite\c#\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\PrimitiveDataTypes.exe.config
+C:\Users\student\Desktop\firstWebsite\c#\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\PrimitiveDataTypes.exe
+C:\Users\student\Desktop\firstWebsite\c#\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\PrimitiveDataTypes.pdb
+C:\Users\student\Desktop\firstWebsite\c#\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\firstWebsite\c#\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.exe
+C:\Users\student\Desktop\firstWebsite\c#\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.pdb

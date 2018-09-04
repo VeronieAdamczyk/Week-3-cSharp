@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\firstWebsite\c#\doWhile\doWhile\bin\Debug\doWhile.exe.config
+C:\Users\student\Desktop\firstWebsite\c#\doWhile\doWhile\bin\Debug\doWhile.exe
+C:\Users\student\Desktop\firstWebsite\c#\doWhile\doWhile\bin\Debug\doWhile.pdb
+C:\Users\student\Desktop\firstWebsite\c#\doWhile\doWhile\obj\Debug\doWhile.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\firstWebsite\c#\doWhile\doWhile\obj\Debug\doWhile.exe
+C:\Users\student\Desktop\firstWebsite\c#\doWhile\doWhile\obj\Debug\doWhile.pdb

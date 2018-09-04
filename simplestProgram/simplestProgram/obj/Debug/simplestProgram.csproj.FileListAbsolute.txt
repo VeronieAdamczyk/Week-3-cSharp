@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\firstWebsite\c#\simplestProgram\simplestProgram\bin\Debug\simplestProgram.exe.config
+C:\Users\student\Desktop\firstWebsite\c#\simplestProgram\simplestProgram\bin\Debug\simplestProgram.exe
+C:\Users\student\Desktop\firstWebsite\c#\simplestProgram\simplestProgram\bin\Debug\simplestProgram.pdb
+C:\Users\student\Desktop\firstWebsite\c#\simplestProgram\simplestProgram\obj\Debug\simplestProgram.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\firstWebsite\c#\simplestProgram\simplestProgram\obj\Debug\simplestProgram.exe
+C:\Users\student\Desktop\firstWebsite\c#\simplestProgram\simplestProgram\obj\Debug\simplestProgram.pdb

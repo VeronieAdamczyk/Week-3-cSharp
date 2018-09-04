@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\firstWebsite\c#\switchStatements\switchStatements\bin\Debug\switchStatements.exe.config
+C:\Users\student\Desktop\firstWebsite\c#\switchStatements\switchStatements\obj\Debug\switchStatements.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\firstWebsite\c#\switchStatements\switchStatements\bin\Debug\switchStatements.exe
+C:\Users\student\Desktop\firstWebsite\c#\switchStatements\switchStatements\bin\Debug\switchStatements.pdb
+C:\Users\student\Desktop\firstWebsite\c#\switchStatements\switchStatements\obj\Debug\switchStatements.exe
+C:\Users\student\Desktop\firstWebsite\c#\switchStatements\switchStatements\obj\Debug\switchStatements.pdb
