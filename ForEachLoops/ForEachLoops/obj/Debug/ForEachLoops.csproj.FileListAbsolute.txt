@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\firstWebsite\c#\Day 2\ForEachLoops\ForEachLoops\bin\Debug\ForEachLoops.exe.config
+C:\Users\student\Desktop\firstWebsite\c#\Day 2\ForEachLoops\ForEachLoops\bin\Debug\ForEachLoops.exe
+C:\Users\student\Desktop\firstWebsite\c#\Day 2\ForEachLoops\ForEachLoops\bin\Debug\ForEachLoops.pdb
+C:\Users\student\Desktop\firstWebsite\c#\Day 2\ForEachLoops\ForEachLoops\obj\Debug\ForEachLoops.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\firstWebsite\c#\Day 2\ForEachLoops\ForEachLoops\obj\Debug\ForEachLoops.exe
+C:\Users\student\Desktop\firstWebsite\c#\Day 2\ForEachLoops\ForEachLoops\obj\Debug\ForEachLoops.pdb

@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\firstWebsite\c#\Day 2\Lists\Lists\bin\Debug\Lists.exe.config
+C:\Users\student\Desktop\firstWebsite\c#\Day 2\Lists\Lists\obj\Debug\Lists.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\firstWebsite\c#\Day 2\Lists\Lists\bin\Debug\Lists.exe
+C:\Users\student\Desktop\firstWebsite\c#\Day 2\Lists\Lists\bin\Debug\Lists.pdb
+C:\Users\student\Desktop\firstWebsite\c#\Day 2\Lists\Lists\obj\Debug\Lists.exe
+C:\Users\student\Desktop\firstWebsite\c#\Day 2\Lists\Lists\obj\Debug\Lists.pdb

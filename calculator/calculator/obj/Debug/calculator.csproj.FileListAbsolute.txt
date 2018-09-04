@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\firstWebsite\c#\Day 2\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\student\Desktop\firstWebsite\c#\Day 2\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\firstWebsite\c#\Day 2\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\student\Desktop\firstWebsite\c#\Day 2\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\student\Desktop\firstWebsite\c#\Day 2\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\student\Desktop\firstWebsite\c#\Day 2\calculator\calculator\obj\Debug\calculator.pdb
