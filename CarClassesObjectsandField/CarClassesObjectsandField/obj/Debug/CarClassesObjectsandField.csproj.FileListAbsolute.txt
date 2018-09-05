@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\firstWebsite\c#\Day 3\CarClassesObjectsandField\CarClassesObjectsandField\bin\Debug\CarClassesObjectsandField.exe.config
+C:\Users\student\Desktop\firstWebsite\c#\Day 3\CarClassesObjectsandField\CarClassesObjectsandField\obj\Debug\CarClassesObjectsandField.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\firstWebsite\c#\Day 3\CarClassesObjectsandField\CarClassesObjectsandField\bin\Debug\CarClassesObjectsandField.exe
+C:\Users\student\Desktop\firstWebsite\c#\Day 3\CarClassesObjectsandField\CarClassesObjectsandField\bin\Debug\CarClassesObjectsandField.pdb
+C:\Users\student\Desktop\firstWebsite\c#\Day 3\CarClassesObjectsandField\CarClassesObjectsandField\obj\Debug\CarClassesObjectsandField.exe
+C:\Users\student\Desktop\firstWebsite\c#\Day 3\CarClassesObjectsandField\CarClassesObjectsandField\obj\Debug\CarClassesObjectsandField.pdb
