@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\firstWebsite\c#\Day 5\CarProject\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\student\Desktop\firstWebsite\c#\Day 5\CarProject\CarProject\bin\Debug\CarProject.exe
+C:\Users\student\Desktop\firstWebsite\c#\Day 5\CarProject\CarProject\bin\Debug\CarProject.pdb
+C:\Users\student\Desktop\firstWebsite\c#\Day 5\CarProject\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\firstWebsite\c#\Day 5\CarProject\CarProject\obj\Debug\CarProject.exe
+C:\Users\student\Desktop\firstWebsite\c#\Day 5\CarProject\CarProject\obj\Debug\CarProject.pdb
