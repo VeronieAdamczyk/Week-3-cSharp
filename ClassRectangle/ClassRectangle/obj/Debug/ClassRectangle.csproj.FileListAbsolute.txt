@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\firstWebsite\c#\Day 4\ClassRectangle\ClassRectangle\bin\Debug\ClassRectangle.exe.config
+C:\Users\student\Desktop\firstWebsite\c#\Day 4\ClassRectangle\ClassRectangle\bin\Debug\ClassRectangle.exe
+C:\Users\student\Desktop\firstWebsite\c#\Day 4\ClassRectangle\ClassRectangle\bin\Debug\ClassRectangle.pdb
+C:\Users\student\Desktop\firstWebsite\c#\Day 4\ClassRectangle\ClassRectangle\obj\Debug\ClassRectangle.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\firstWebsite\c#\Day 4\ClassRectangle\ClassRectangle\obj\Debug\ClassRectangle.exe
+C:\Users\student\Desktop\firstWebsite\c#\Day 4\ClassRectangle\ClassRectangle\obj\Debug\ClassRectangle.pdb
